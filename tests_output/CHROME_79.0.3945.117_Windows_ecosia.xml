@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="ecosia"
+    errors="0" failures="1" hostname="" id="" package="ecosia" skipped="0"
+    tests="1" time="13.07" timestamp="">
+  
+    <testcase name="Demo test ecosia.org" classname="ecosia" time="13.07" assertions="5">
+
+    
+
+    
+
+    
+
+      <failure message="Testing if element [0;33m&lt;.mainline-results&gt;[0m contains text [0;33m&#39;Nightwatch.js&#39;[0m in 5000ms - expected [0;32m&#34;contains text &#39;Nightwatch.js&#39;&#34;[0m but got: [0;31m&#34;does not contain &#39;Nightwatch.js&#39;&#34;[0m [0;90m(5121ms)[0m">    at DescribeInstance.&lt;anonymous&gt; (C:\Users\G\Desktop\testUnitaire\nightTest\tests\ecosia.js:14:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)</failure>
+
+    <failure message="    at DescribeInstance.&lt;anonymous&gt; (C:\Users\G\Desktop\testUnitaire\nightTest\tests\ecosia.js:14:21)">    at process._tickCallback (internal/process/next_tick.js:68:7)</failure>
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
